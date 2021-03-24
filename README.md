@@ -1,7 +1,11 @@
 # Flutter Simple Login Form App
 
-A new Flutter pet-project with State Management (Stateful Widget)
+A new Flutter pet-project with State Management (BLoC pattern)
 
+* [bloc: ^7.0.0](https://pub.dev/packages/bloc)
+* [streams](https://dart.dev/tutorials/language/streams)
+* [Stream<T> class](https://api.dart.dev/stable/2.10.5/dart-async/Stream-class.html)
+* [StreamTransformer<S, T> class](https://api.dart.dev/stable/2.10.5/dart-async/StreamTransformer-class.html)
  
 ---------
 
